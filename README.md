@@ -2,7 +2,10 @@
 
 An AI-powered Retrieval-Augmented Generation (RAG) chatbot that allows users to upload PDF, DOCX, and TXT documents and ask questions in natural language. The application retrieves the most relevant content using FAISS and generates accurate answers with Groq's Llama 3.3 70B model.
 
+
+
 ## Features
+
 
 - Upload PDF, DOCX, and TXT files
 - Supports multiple document uploads
